@@ -1,8 +1,0 @@
-// $Id$
-
-#pragma once
-
-namespace XATC
-{
-	S32	DoMain(int argc, TCHAR* argv[]);
-}

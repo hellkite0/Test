@@ -1,8 +1,0 @@
-// $Id$
-
-#ifndef __STDAFX_H__
-#define __STDAFX_H__
-
-#include "../Just9.h"
-
-#endif//__STD_AFX_H__
