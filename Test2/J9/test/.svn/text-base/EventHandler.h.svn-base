@@ -1,0 +1,8 @@
+// $Id$
+
+#pragma once
+
+namespace EH
+{
+	S32	DoMain(int argc, TCHAR* argv[]);
+}
